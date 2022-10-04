@@ -39,7 +39,7 @@ Fit the model and predict the sample input.
 
 ## PROGRAM
 
-```
+```python
 # Developed By:KUMARAVEL V
 # Register Number:212220230027
 import os
