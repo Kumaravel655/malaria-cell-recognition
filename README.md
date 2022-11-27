@@ -1,4 +1,8 @@
-# Deep Neural Network for Malaria Infected Cell Recognition
+### EXP NO: 04
+
+### Date:
+
+# <p align = "center"> Deep Neural Network for Malaria Infected Cell Recognition
 
 ## AIM
 
