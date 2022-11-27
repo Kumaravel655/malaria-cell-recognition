@@ -1,6 +1,6 @@
 ### EXP NO: 04
 
-### Date:
+### Date:15.10.2022
 
 # <p align = "center"> Deep Neural Network for Malaria Infected Cell Recognition
 
